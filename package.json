@@ -1,0 +1,16 @@
+{
+  "name": "korean-twitter",
+  "version": "1.0.0",
+  "description": "Korean Twitter is an app that takes korean twitter streams and displays the Korean Syllables on a grid.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Phililps",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "twitter": "^1.7.1"
+  }
+}
